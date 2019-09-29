@@ -1,3 +1,3 @@
-# Machine-Learning-Projects
+# Titanic Survival Prediction
 
-Here you can view the different projects done using various machine learning methodolgies like logistic regression.
+Survival prediction using logistic regression. Notebook is 'Logistic Regression - Titanic Survival - Follow along.ipynb' and data is 'Train_Titanic.csv'.

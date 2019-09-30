@@ -6,14 +6,14 @@ The sinking of the Titanic on April 15th, 1912 is one of the most tragic tragedi
 
 The dataset includes the following:
 
-Pclass: Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd)
-Sex: Sex
-Age: Age in years
-Sibsp: # of siblings / spouses aboard the Titanic
-Parch: # of parents / children aboard the Titanic
-Ticket: Ticket number
-Fare: Passenger fare
-Cabin: Cabin number
-Embarked: Port of Embarkation C = Cherbourg, Q = Queenstown, S = Southampton
+  -Pclass: Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd)
+  -Sex: Sex
+  -Age: Age in years
+  -Sibsp: # of siblings / spouses aboard the Titanic
+  -Parch: # of parents / children aboard the Titanic
+  -Ticket: Ticket number
+  -Fare: Passenger fare
+  -Cabin: Cabin number
+  -Embarked: Port of Embarkation C = Cherbourg, Q = Queenstown, S = Southampton
 
 Target class: Survived: Survival (0 = No, 1 = Yes)
